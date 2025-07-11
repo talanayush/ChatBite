@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code and PyCharm settings
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
+
+# Log files
+*.log
+
+# Python environment files
+*.env
+*.venv
+*.egg-info/
+.eggs/
+
+# pip wheel cache
+pip-wheel-metadata/
+*.whl
+
+# Test coverage reports
+htmlcov/
+coverage.xml
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# PyInstaller
+dist/
+build/
+
+# Unit test / coverage
+*.cover
+*.py,cover
+.hypothesis/
+
+# Local database
+*.sqlite3
+
+# Backup files
+*~
+*.bak
+*.swp
+*.tmp
