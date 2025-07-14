@@ -135,11 +135,6 @@ This project demonstrates a full end-to-end pipeline—from data collection to d
 * **Real-Time Updates:** Periodic re-scraping or streaming updates for menu changes.
 * **Multimodal Search:** Integrate images of dishes for richer interaction.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
