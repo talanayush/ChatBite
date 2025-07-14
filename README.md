@@ -1,5 +1,4 @@
-# zomato-chatbot
-
+# ChatBite
 A conversational AI chatbot that provides menu insights and recommendations for Ghaziabad restaurants by leveraging web-scraped data, semantic search (RAG), and a Streamlit interface.
 
 ---
